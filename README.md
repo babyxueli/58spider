@@ -10,4 +10,4 @@
  
     3将爬取的数据从数据库导出，并以excel格式保存。
 
-    获取方式：git clone git@github.com:babyxueli/58spider.git
+获取方式：git clone git@github.com:babyxueli/58spider.git
